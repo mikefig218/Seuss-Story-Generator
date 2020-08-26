@@ -1,0 +1,26 @@
+hash 1 and collision 1
+
+6,982 original collisions
+39,638 post collisions
+
+hash 1 and collision 2
+
+7,965 original collisions
+124,481 post collisions
+
+hash 2 and collision 1
+
+7,579 original collisions
+4,983,676 post collisions
+
+hash 2 and collision 2
+
+8,214 original collisions
+196,391 post collisions
+
+Then I'll build my hat
+Turn left here and he heard the feast
+It's a place where Boom Bands are new
+That is a yap yap
+You'll be in a box. Not a box?
+Today is fun on biggering... selling more gripes
